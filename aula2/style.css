@@ -1,0 +1,12 @@
+h1{
+    color: darkmagenta;
+    background-color: aqua;
+    text-align: center;
+}
+/* para colocar css direto no arquivo de html é necessario usar a tag <style></style>; 
+
+essa é uma outra forma de colocar cor  
+p{
+    color: rgb(52, 100 , 200);
+    background: color #f00;
+}  */
