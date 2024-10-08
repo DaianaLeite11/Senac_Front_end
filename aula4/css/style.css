@@ -1,0 +1,49 @@
+h2{
+    
+    
+    padding-top: 20px;/* espacamento superior */
+    padding-bottom: 35px;/* espacamento inferior */
+    padding-left: 25px;/* espacamento esquerdo */
+    
+    text-align: center;/* centraliza o texto */
+}
+/* padding = espaço dentro da caixa para todos os lados
+margin= espaço fora da caixa */
+
+.azul{
+    background-color: #2e6ea6;
+    border: 5px solid #000000;
+
+}
+.azul:hover{
+background-color: green;
+}
+
+.vermelho{
+    background-color: #ff0000;
+
+}
+
+.marrom{
+    background-color: #a52a2a;
+}
+
+a {
+    background-color: #2e6ea6;
+    color: white;
+    padding: 10px;
+    text-decoration: none; /* retira o sublinhado */
+    border-radius: 5px;
+}
+
+a:hover{
+    background-color: #ff0000;
+    
+}
+
+button{
+    background-color:#a52a2a;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
